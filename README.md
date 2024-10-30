@@ -31,7 +31,6 @@ O projeto foi desenvolvido para apoiar equipes de vendas e finanças na análise
 
 ```plaintext
 ├── data/                # Dados brutos e processados
-├── dashboards/          # Arquivos do dashboard (.pbix, .twb, etc.)
-├── scripts/             # Scripts de extração e transformação de dados
+├── dashboards/          # Arquivos do dashboard (.pbix)
 ├── README.md            # Arquivo principal de documentação
 
